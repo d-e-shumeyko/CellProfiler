@@ -1,8 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\scripts"
+    "\\scripts",
+    "\\src",
+    "\\src\\frontend",
+    "\\src\\frontend\\cellprofiler",
+    "\\src\\frontend\\cellprofiler\\modules",
+    "\\src\\frontend\\cellprofiler\\modules\\plugins"
   ],
-  "SelectedNode": "\\CONTRIBUTING.md",
+  "SelectedNode": "\\src\\frontend\\cellprofiler\\modules\\plugins\\niiorCellCounter.py",
   "PreviewInSolutionExplorer": false
 }

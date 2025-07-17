@@ -4,8 +4,9 @@
 #
 #################################
 
-import centrosome.cpmorphology
-import centrosome.zernike
+import centrosome.cpmorphology # type: ignore
+import centrosome.zernike # type: ignore
+from frontend.cellprofiler.modules.plugins.imagetemplate import ImageTemplate
 import numpy
 import scipy.ndimage
 
